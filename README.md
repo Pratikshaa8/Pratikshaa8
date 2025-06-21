@@ -39,21 +39,27 @@
 
 ---
 
-## 📌 Featured Projects
-
-- 🧮 **Expenditure Tracker** – Python GUI with SQLite for daily budgeting  
-- 🩺 **Paraplegic Rehab MIS** – Web platform for patient-doctor-admin coordination  
-- 🔍 **Cybersecurity Scanner Report Tool** – Based on Nessus findings
 
 ---
 
-## 📫 Let’s Connect
+## 🌐 Connect With Me
 
-- 📧 Email: [patilpratiksha2004@gmail.com](mailto:patilpratiksha2004@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/pratikshaa8](https://linkedin.com/in/pratikshaa8)  
-- 💻 GitHub: [github.com/Pratikshaa8](https://github.com/Pratikshaa8)
+<p align="center">
+  <a href="[[https://linkedin.com/in/pratikshaa8](https://www.linkedin.com/in/pratiksha-patil-9a6270319/)](https://www.linkedin.com/in/pratiksha-patil-9a6270319/)" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:patilpratiksha2004@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/_pratiksha0810_" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
+
+## ⚡ Fun Bits
+
+- ☕ Turning caffeine and curiosity into code  
+- 🧩 Crafting clean, user-friendly web apps with purpose  
+- 🔐 Curious about breaking and securing digital boundaries  
+- 🧭 Leading with heart, building with intent  
+- 🚀 Believer in small steps creating big tech impact
+
 
 ## 📈 GitHub Stats
 

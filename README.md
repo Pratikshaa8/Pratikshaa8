@@ -14,7 +14,6 @@
 💡 Currently Exploring:
 - 🔐 Network & Web Vulnerabilities
 - 🌐 PHP + MySQL Web Applications
-- 📊 Data Analysis using Python (Pandas, Matplotlib)
 
 🌱 Always learning and open to opportunities in **Cybersecurity, Web Development, and Tech Leadership**.
 
@@ -45,7 +44,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="[(https://www.linkedin.com/in/pratiksha-patil-9a6270319/)](https://www.linkedin.com/in/pratiksha-patil-9a6270319/)" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pratiksha-patil-9a6270319/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <a href="mailto:patilpratiksha2004@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/_pratiksha0810_" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
